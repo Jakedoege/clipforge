@@ -1,0 +1,5 @@
+faster-whisper>=1.1,<2
+imageio-ffmpeg>=0.6,<0.7
+av>=15,<16
+streamlink>=8.5,<9
+Send2Trash>=1.8,<3
